@@ -1,6 +1,6 @@
 - Hi there👋
 - I'm Sruthi Jonnala, a passionate Data Analyst📊.
-- 🧰 Analytics toolbox: SQL, Python, Power BI & MS Excel.
+- 🧰 Analytics toolbox: SQL, Python, Power BI and MS Excel.
 - 📚 Specialized in data collection, cleaning, analysis, and visualization.
 - 🔗connect on Linkedin www.linkedin.com/in/sruthi-jonnala
 - 📫 reach me at jonnala0987@gmail.com
